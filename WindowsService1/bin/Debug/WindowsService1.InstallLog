@@ -1,0 +1,39 @@
+﻿Выполняется установка сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется установка сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyService.
+Выполняется установка сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба OlegService...
+Служба OlegService успешно установлена.
+Создается исходный EventLog OlegService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
